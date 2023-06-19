@@ -1,0 +1,6 @@
+{
+  "Ottawa.Pigeon.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\a\\1\\s\\Ottawa.Pigeon\\Ottawa.Pigeon.Application",
+  "Ottawa.Pigeon.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\a\\1\\s\\Ottawa.Pigeon\\Ottawa.Pigeon.Domain",
+  "Ottawa.Pigeon.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\a\\1\\s\\Ottawa.Pigeon\\Ottawa.Pigeon.Infrastructure",
+  "Ottawa.Pigeon.WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\a\\1\\s\\Ottawa.Pigeon\\Ottawa.Pigeon.WebAPI"
+}

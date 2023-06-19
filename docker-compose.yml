@@ -1,0 +1,27 @@
+version: '3.4'
+
+services:
+  ottawa.pigeon.webapi:
+    image: ${DOCKER_REGISTRY-}ottawapigeonwebapi
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+       - "6080:80"
+       - "6043:443"
+    environment:
+        - ASPNETCORE_ENVIRONMENT=Staging
+        - ASPNETCORE_URLS=https://+:443;http://+:80
+        - ASPNETCORE_Kestrel__Certificates__Default__Password=Modis20222022
+        - ASPNETCORE_Kestrel__Certificates__Default__Path=/https/ottawacert.pfx
+    volumes:
+        - ./https:/https:ro
+    depends_on:
+       - sqldata
+  sqldata:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+    - SA_PASSWORD=Modiss20222022
+    - ACCEPT_EULA=Y
+    ports:
+      - "1450:1433"

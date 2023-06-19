@@ -1,0 +1,12 @@
+D:\a\1\s\Ottawa.Pigeon\Ottawa.Pigeon.Domain\bin\Release\net6.0\Ottawa.Pigeon.Domain.deps.json
+D:\a\1\s\Ottawa.Pigeon\Ottawa.Pigeon.Domain\bin\Release\net6.0\Ottawa.Pigeon.Domain.dll
+D:\a\1\s\Ottawa.Pigeon\Ottawa.Pigeon.Domain\bin\Release\net6.0\Ottawa.Pigeon.Domain.pdb
+D:\a\1\s\Ottawa.Pigeon\Ottawa.Pigeon.Domain\obj\Release\net6.0\Ottawa.Pigeon.Domain.csproj.AssemblyReference.cache
+D:\a\1\s\Ottawa.Pigeon\Ottawa.Pigeon.Domain\obj\Release\net6.0\Ottawa.Pigeon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\a\1\s\Ottawa.Pigeon\Ottawa.Pigeon.Domain\obj\Release\net6.0\Ottawa.Pigeon.Domain.AssemblyInfoInputs.cache
+D:\a\1\s\Ottawa.Pigeon\Ottawa.Pigeon.Domain\obj\Release\net6.0\Ottawa.Pigeon.Domain.AssemblyInfo.cs
+D:\a\1\s\Ottawa.Pigeon\Ottawa.Pigeon.Domain\obj\Release\net6.0\Ottawa.Pigeon.Domain.csproj.CoreCompileInputs.cache
+D:\a\1\s\Ottawa.Pigeon\Ottawa.Pigeon.Domain\obj\Release\net6.0\Ottawa.Pigeon.Domain.dll
+D:\a\1\s\Ottawa.Pigeon\Ottawa.Pigeon.Domain\obj\Release\net6.0\refint\Ottawa.Pigeon.Domain.dll
+D:\a\1\s\Ottawa.Pigeon\Ottawa.Pigeon.Domain\obj\Release\net6.0\Ottawa.Pigeon.Domain.pdb
+D:\a\1\s\Ottawa.Pigeon\Ottawa.Pigeon.Domain\obj\Release\net6.0\ref\Ottawa.Pigeon.Domain.dll
